@@ -1,4 +1,4 @@
-# Qtasnim Backend Technical Test - Wita Karwila
+# BTS.id Backend Technical Test - Wita Karwila
 
 This project using NodeJS, ExpressJS, MySQL
 
