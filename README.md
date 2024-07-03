@@ -10,7 +10,7 @@ npm install
 
 ## Database Setup:
 
-1. **Import Database:** Import the database file in the folder: `config/bts-test.sql`
+1. **Import Database:** Import the database file in the folder: `config/db.sql`
 2. **Setup Database Config:** Enter the database credentials into this file `config/db.js`
 
 ## Running the Application:
